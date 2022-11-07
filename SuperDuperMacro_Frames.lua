@@ -5,6 +5,11 @@ local f, fs, t
 -----------------------------------------
 
 f = CreateFrame( 'Frame', 'sdm_mainFrame', nil, UIParent )
+
+-- FIX: SDM frame was not on top of everything, 
+f:SetFrameStrata("DIALOG")
+f:SetFrameLevel(7)
+
 f:Hide()
 f:SetMovable( true )
 f:SetSize( 768, 447 )
