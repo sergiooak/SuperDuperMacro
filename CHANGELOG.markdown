@@ -2,7 +2,10 @@
 
 `git log` is another good way to peer into the innards of this repository.
 
-
+## retail 9.0.1.2, classic 3.4.0
+- Tested on World of Warcraft The Wrath of the Lich King Classic
+- Distribute as a zip file
+- Distribute on CurseForge
 
 # 9.x - Shadowlands
 

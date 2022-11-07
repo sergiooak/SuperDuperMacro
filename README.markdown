@@ -1,9 +1,3 @@
-# I have left the game
-
-I have left the game and this AddOn is no longer maintained; feel free to fork it.  I'm leaving things as they are so you can chat with one another via the issue ticketing system.
-
-
-
 # Super Duper Macro
 
 A 
@@ -27,12 +21,13 @@ A fork of
 
 # Notes
 
-- This addon is largely unchanged from hypehuman's efforts!
-- I am a documentation guy, not a programmer.  It is unlikely I can make any real changes.
+- Maybe a have spent a full day on this to fix to classic, just to found spiralofhope's fork. But I need this addon on Curse Forge, so I will keep this version. And try to keep it updated. (Specially on classic, cause I'm playing on retail right now)
+- This addon is largely unchanged from hypehuman's spiralofhope's and  efforts!
+- I am new to Lua and WoW addons at all, but I'll try my best to fix bugs and keep it up-to-date.
   -  If you are a developer, I am happy to:
      -  Accept GitHub pull requests.
      -  Add you as a contributor on GitHub.
-     -  Hand this project over!
+     <!-- -  Hand this project over! -->
 - There is basic compatibility with [LargerMacroIconSelection](https://www.wowinterface.com/downloads/info11189-LargerMacroIconSelection.html)
   -  (just don't click it's `ok` at the bottom-right)
 
@@ -42,7 +37,7 @@ A fork of
 
 Since it's a regular addon, it's manually installed the same as every other addon would be.
 
-1) [Download Super Duper Macro](https://github.com/spiralofhope/SuperDuperMacro/releases) 
+1) [Download Super Duper Macro](https://github.com/sergiooak/SuperDuperMacro/releases) 
 
 2) Extract it to your `Interface\AddOns` folder.
 
@@ -90,7 +85,7 @@ Open the interface by typing `/sdm`
 
 # Issues and suggestions
 
-([issues list](https://github.com/spiralofhope/SuperDuperMacro/issues))
+([issues list](https://github.com/sergiooak/SuperDuperMacro/issues))
 
 - If you seen an error, disable all addons but this one and re-test before creating an issue.
   -  If you have multiple addons installed, errors you think are for one addon may actually be for another.  No really, disable everything else.
