@@ -1042,7 +1042,7 @@ function sdm_DefaultMacroFrameLoaded()
                     end
                     _G[prefix]:Disable()
                     _G[prefix .. 'Icon']:SetTexture('Interface\\AddOns\\SuperDuperMacro\\images\\SDM-Icon.tga')
-                    _G[prefix .. 'Name']:SetText("|cff000000SDM|r")
+                    _G[prefix .. 'Name']:SetText("SDM")
                 end
             end
             if selectedIsSDM then
