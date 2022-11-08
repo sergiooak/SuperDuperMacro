@@ -21,7 +21,7 @@ A fork of spiralofhope' fork of
 
 # Notes
 
-- Maybe a have spent a full day on this to fix to classic, just to found spiralofhope's fork. But I need this addon on Curse Forge, so I will keep this version. And try to keep it updated. (Specially on classic, cause I'm playing on retail right now)
+- Maybe I have spent a full day on this to fix to classic, just to found spiralofhope's fork. But I need this addon on Curse Forge, so I will keep this version. And try to keep it updated. (Specially on classic, cause I'm playing on retail right now)
 - This addon is largely unchanged from hypehuman's spiralofhope's and  efforts!
 - I am new to Lua and WoW addons at all, but I'll try my best to fix bugs and keep it up-to-date.
   -  If you are a developer, I am happy to:
