@@ -6,7 +6,7 @@ A
 
 Enables the creation of incredibly long macros.
 
-A fork of 
+A fork of spiralofhope' fork of
 [hypehuman](http://www.wowinterface.com/forums/member.php?action=getinfo&userid=52682)
 's 
 [Super Duper Macro](http://www.wowinterface.com/downloads/info10496)

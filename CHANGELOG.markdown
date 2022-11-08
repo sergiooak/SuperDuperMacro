@@ -6,6 +6,7 @@
 - Tested on World of Warcraft The Wrath of the Lich King Classic
 - Distribute as a zip file
 - Distribute on CurseForge
+- Small UI changes
 
 # 9.x - Shadowlands
 
